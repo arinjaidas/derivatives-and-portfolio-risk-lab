@@ -1,0 +1,137 @@
+{
+  "publication_date": "2026-10-20",
+  "repository": "https://github.com/arinjaidas/derivatives-and-portfolio-risk-lab",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 54,
+      "sha256": "7ae984b50ced7a800f4d97bc3f53471819f84860bbfc71a8658f1162a9f3fc95"
+    },
+    {
+      "path": ".github/workflows/verify.yml",
+      "bytes": 756,
+      "sha256": "e78f922bf81b8d4ce72d68c437f269ca0fa73307bbc893787949fcf9d871940a"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 161,
+      "sha256": "226529a2f80dc277d24a19fc76db3779708389691b815cacf6c6dc27228fdcde"
+    },
+    {
+      "path": ".python-version",
+      "bytes": 5,
+      "sha256": "7b55f8e67b5623c4bef3fa691288da9437d79d3aba156de48d481db32ac7d16d"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 333,
+      "sha256": "eb6d7d725e7828c119af1c26b98401fbc16888225500649d23aa55ccbe70e38a"
+    },
+    {
+      "path": "CITATION.cff",
+      "bytes": 383,
+      "sha256": "1b527be5edb59491657e54716234b37a10a6222c4c54abbb492f7897166f2ab8"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "bytes": 607,
+      "sha256": "5bded38c45157b324f6c63e8ca9ed017d3f3068168eeffdc50b95cca1db2106a"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3730,
+      "sha256": "0f4ee87134e6a3921d8a5b19772db54d13963cb8952a5200daf7c75471a6f328"
+    },
+    {
+      "path": "REPRODUCIBILITY.md",
+      "bytes": 1302,
+      "sha256": "398aeb7b4427571e040ccc389f06900a104be872dae672c560071f8d2b540e7a"
+    },
+    {
+      "path": "assets/header.svg",
+      "bytes": 722,
+      "sha256": "307eb640a42142d7b14667b4d332ac964a47524313b13497560fa60e2d10b3ed"
+    },
+    {
+      "path": "demo_output/payoff_profiles.csv",
+      "bytes": 27008,
+      "sha256": "74ddd0a666e9b0819bfb86acdbde020a2bcad2195a8e16c81af96b164ee81088"
+    },
+    {
+      "path": "demo_output/payoffs.svg",
+      "bytes": 64821,
+      "sha256": "f98efd8f722cc32e6bf61c1567303efc0a7b556dcad2319c01dcf48d11a273f6"
+    },
+    {
+      "path": "demo_output/pricing_summary.json",
+      "bytes": 682,
+      "sha256": "1f38aa93577df6419235504a5dd56fdd90192c6e1c2cb9dad4d6be3f94196624"
+    },
+    {
+      "path": "docs/CLI.txt",
+      "bytes": 340,
+      "sha256": "2c91ff296ab8ce85abd1d7db51a49ade8b12f12945b11b2831c3939278af562e"
+    },
+    {
+      "path": "docs/DATA_DICTIONARY.md",
+      "bytes": 693,
+      "sha256": "309c7cbde1c3c694f204441246ea313f2f649583a931aff0e999f9a66ef3246a"
+    },
+    {
+      "path": "docs/METHODS.md",
+      "bytes": 1397,
+      "sha256": "614802b97f0c81be2e29d64e619af3f0dd51d2cf4cdbbcace60a8d5bee2d461f"
+    },
+    {
+      "path": "docs/PROVENANCE.md",
+      "bytes": 1049,
+      "sha256": "24422d9195aacd0200eb22d8ea89e334d32938392694c8deac0693e566b2d3e3"
+    },
+    {
+      "path": "docs/REFERENCES.md",
+      "bytes": 320,
+      "sha256": "ac922fab09deb43dd1f312a6dc1a60c4f06f15a9e82ccb091d950dd22b989e27"
+    },
+    {
+      "path": "docs/RESULTS.md",
+      "bytes": 785,
+      "sha256": "86dc0508ea506297e9bb81374a75f58363cb355bc7e930e675cd96e7da5aa1a2"
+    },
+    {
+      "path": "docs/ROADMAP.md",
+      "bytes": 361,
+      "sha256": "8db25770b78b03851eeec90b35cd276d4532002eadc9e0e35158b1f755c1be21"
+    },
+    {
+      "path": "docs/environment.json",
+      "bytes": 278,
+      "sha256": "c12143b6512ab77c7898db33d7d05dda805d20f6a8a41feb33906f0dd55ffae2"
+    },
+    {
+      "path": "notebooks/01_results_walkthrough.ipynb",
+      "bytes": 3886,
+      "sha256": "a9f2fc7cdb733c2e9aa4fb9c6989e171448de6a55a9e0c9b261c046c4f49cc24"
+    },
+    {
+      "path": "pricing.py",
+      "bytes": 7757,
+      "sha256": "95acb565cdeabde7f217e075a908aeef1a9c951f7f367c267dd67d706285b9a3"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 52,
+      "sha256": "c96199ef81ade15361474fd4c6479ea611eb85997230bef8b702a042ad8e62ba"
+    },
+    {
+      "path": "test_input_validation.py",
+      "bytes": 824,
+      "sha256": "a71a0aa9fccc69878421b663f98795a44554404448381dc93b5333d17451d1df"
+    },
+    {
+      "path": "test_pricing.py",
+      "bytes": 1884,
+      "sha256": "388062f3f97717ed950a104ab5cd1093c06a55078bc3eaeb02a1990f21f9c7c5"
+    }
+  ],
+  "excludes": "This manifest excludes itself to avoid a recursive hash."
+}

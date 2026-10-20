@@ -1,0 +1,9 @@
+usage: pricing.py [-h] [--output OUTPUT]
+
+Clean public demonstration of the documented derivatives coursework. European
+options, continuous compounding and constant volatility. This file was
+reconstructed in October 2026; it is not the unrecovered 2024 source.
+
+options:
+  -h, --help       show this help message and exit
+  --output OUTPUT
